@@ -1,0 +1,25 @@
+_repo: The-History-of-the-Post-OfficeFrom-Its-Establishment-Down-to-1836_38328
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Joyce, Herbert
+    gutenberg_agent_id: '39398'
+    url: http://www.gutenberg.org/2009/agents/39398
+description: ''
+gutenberg_issued: '2011-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38328'
+  lccn: 05027962
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Postal service -- Great Britain -- History'
+- !lcc 'HE'
+title: The History of the Post Office, from Its Establishment Down to 1836
+url: http://www.gutenberg.org/ebooks/38328
